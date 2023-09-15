@@ -32,12 +32,12 @@ main {
     max-width: 100%;
     height: auto;
     border-radius: 50%;
+    text-align: center;
   }
 
  .container {
     position: relative;
     width: 50%;
-    text-align: center;
   }
 
   .image {
