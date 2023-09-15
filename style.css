@@ -37,6 +37,7 @@ main {
  .container {
     position: relative;
     width: 50%;
+    text-align: center;
   }
 
   .image {
