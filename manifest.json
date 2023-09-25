@@ -1,0 +1,20 @@
+{
+  "background_color": "#f08080",
+  "description": "PWA do meu currículo gerado para o avaliação da aula de Desenvolvimento de interfaces.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Meu Curriculo",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Meu Curriculo",
+  "start_url": "/",
+  "theme_color": "#f08080",
+  "categories": [
+    "personalization"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "id": "meu_curriculo_gabriel_ramos",
+  "lang": "pt"
+}

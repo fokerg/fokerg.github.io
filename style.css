@@ -76,7 +76,7 @@ main {
   }
 
 
-.topnav{
+#topnav{
     text-rendering: optimizeLegibility;
     margin-top: auto;
     margin-bottom: .5em;
@@ -87,7 +87,7 @@ main {
     background-color: #333;
 } 
 
-.topnav a {
+#topnav a {
     float: left;
     display: block;
     color: #f2f2f2;
@@ -115,7 +115,7 @@ body{
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  body {background: red;}
+  body {background: lightsalmon;}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -135,5 +135,5 @@ body{
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-  body {background: pink;}
+  body {background: lightcoral;}
 }
