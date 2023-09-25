@@ -9,6 +9,12 @@
     <link rel="manifest" href="manifest.json">
 
     <title>Atividade Prática - Curriculo na Web</title>
+
+    <script>
+        if (typeof navigator.serviceWorker !== 'undefined') [
+            navigator.serviceWorker.register('pwabuilder-sw.js')
+        ]
+    </script>
 </head>
 <body>
     <h1>Currículo na Web</h1>
